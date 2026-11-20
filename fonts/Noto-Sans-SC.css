@@ -1,0 +1,8 @@
+/* Noto Sans SC — from fontdex http://127.0.0.1:8435/, trimmed to this page's characters (rx export) */
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(Noto-Sans-SC-1.woff2) format('woff2') format('woff2');
+}
